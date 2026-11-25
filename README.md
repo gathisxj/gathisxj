@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=30&pause=1000&color=A809FB&width=435&lines=Gabriella+Caetano;Sistemas+de+Informa%C3%A7%C3%A3o+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=32&pause=1000&color=6800F7&center=true&vCenter=true&width=435&lines=Gabriella+Caetano;Sistemas+de+Informa%C3%A7%C3%A3o+)](https://git.io/typing-svg)
 
 ### Estudante de Sistemas da Informação
 
