@@ -16,9 +16,31 @@
 - 🐍 Desenvolvimento de soluções e automações utilizando Python
 - 📚 Perfil autodidata, com preferência por aprendizado através de documentação técnica
 - 🇺🇸 Inglês Intermediário 
-## 🛠 Skills
-Python, C#, Html, CSS, SQL, Integração de Sistemas, Codex
 
+## 🛠 Skills
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=cs,python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**SQL Server • Stored Procedures • Jobs • Queries • Integração Backend/Database**
+
+### Ferramentas e Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+**APIs REST • FTP/SFTP • Metodologias Ágeis**
+
+</div>
 
 ## 🔗 Links
 
