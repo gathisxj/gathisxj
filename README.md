@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**gathisxj/gathisxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <span style="color: blue;">GABRIELLA CAETANO</span>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 🚀 SOBRE A GABI
+Estudante de Sistemas da Informação e desenvolvedora de software iniciante. Com foco inicial em C#, buscando aprender sobre integração de sistemas e APIs, além do uso responsável de agentes de IA como o Codex.
+
+## 🛠 Skills
+Python, C#, Html, CSS, SQL, Integração de Sistemas, Codex
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-caetano-617305262/)
